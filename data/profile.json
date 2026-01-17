@@ -1,0 +1,86 @@
+{
+  "name": "Marçal Ferreira",
+  "profilePictureUrl": "images/pictures/avatar.jpg",
+  "locales": {
+    "en": {
+      "credits": "Designed by <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+      "role": "Professor"
+    },
+    "pt-br": {
+      "credits": "Design por <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+      "role": "Professor"
+    }
+  },
+  "contactOptions": [
+    {
+      "id": "address",
+      "faIcon": "fa-regular fa-map",
+      "href": null,
+      "locales": {
+        "en": {
+          "value": "",
+          "valueShort": "Brasil - SP"
+        },
+        "pt-br": {
+          "valueShort": "Brasil - SP"
+        }
+      }
+    },
+    {
+      "id": "email",
+      "value": "marcalferreira@gmail.com",
+      "valueShort": "marcalferreira@gmail.com",
+      "faIcon": "fa-regular fa-envelope",
+      "href": "mailto:marcalferreira@gmail.com",
+      "copy": true
+    },
+    {
+      "id": "facebook",
+      "value": "",
+      "valueShort": "",
+      "faIcon": "fa-brands fa-facebook",
+      "href": "https://facebook.com",
+      "copy": false
+    },
+    {
+      "id": "github",
+      "value": "",
+      "valueShort": "",
+      "faIcon": "fa-brands fa-github",
+      "href": "https://github.com",
+      "copy": false
+    },
+    {
+      "id": "instagram",
+      "value": "@professor.marcal",
+      "valueShort": "@professor.marcal",
+      "faIcon": "fa-brands fa-instagram",
+      "href": "https://instagram.com",
+      "copy": false
+    },
+    {
+      "id": "linkedin",
+      "value": "",
+      "valueShort": "",
+      "faIcon": "fa-brands fa-linkedin",
+      "href": "https://linkedin.com",
+      "copy": false
+    },
+    {
+      "id": "phone",
+      "value": "",
+      "valueShort": "",
+      "faIcon": "fa-brands fa-whatsapp",
+      "href": "tel:1234567890",
+      "copy": true
+    },
+    {
+      "id": "download_resume",
+      "value": "",
+      "valueShort": "",
+      "faIcon": "fa-solid fa-file-pdf",
+      "href": "/pdf/resume.pdf",
+      "copy": false
+    }
+  ]
+}

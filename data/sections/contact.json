@@ -1,0 +1,27 @@
+{
+  "articles": [
+    {
+      "id": 2,
+      "component": "ArticleContactOptions",
+      "locales": {
+        "en": {
+          "title": "Or...",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        "pt-br": {
+          "title": "",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "contact_ids": [
+          "email",
+          "instagram"
+        ]
+      },
+      "items": null
+    }
+  ]
+}

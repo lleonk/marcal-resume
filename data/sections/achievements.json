@@ -1,0 +1,216 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleThread",
+      "locales": {
+        "en": {
+          "title": "Awards"
+        },
+        "pt-br": {
+          "title": "Prêmios"
+        }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "desc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": {
+            "year": 2011,
+            "month": 12
+          },
+          "fallbackFaIcon": "fa-solid fa-award",
+          "fallbackFaIconColor": "#d4ac0d",
+          "locales": {
+            "en": {
+              "title": "Outstanding Undergraduate Thesis",
+              "description": "Recognition for the best undergraduate thesis in Mathematics Education, with research on innovative teaching methodologies for high school.",
+              "institution": "Universidade de São Paulo (USP)"
+            },
+            "pt-br": {
+              "title": "Trabalho de Conclusão de Curso Destaque",
+              "description": "Reconhecimento pelo melhor TCC em Licenciatura em Matemática, com pesquisa sobre metodologias inovadoras de ensino para o ensino médio.",
+              "institution": "Universidade de São Paulo (USP)"
+            }
+          },
+          "links": []
+        },
+        {
+          "id": 2,
+          "dateStart": {
+            "year": 2016,
+            "month": 11
+          },
+          "fallbackFaIcon": "fa-solid fa-trophy",
+          "fallbackFaIconColor": "#2874a6",
+          "locales": {
+            "en": {
+              "title": "Best Teacher of the Year",
+              "description": "Elected best teacher by students and faculty at the state public school where I worked, recognized for dedication and innovative teaching methods.",
+              "institution": "Secretaria da Educação do Estado de SP"
+            },
+            "pt-br": {
+              "title": "Professor Destaque do Ano",
+              "description": "Eleito melhor professor pelos alunos e corpo docente da escola pública estadual onde atuava, reconhecido pela dedicação e métodos inovadores de ensino.",
+              "institution": "Secretaria da Educação do Estado de SP"
+            }
+          },
+          "links": []
+        },
+        {
+          "id": 3,
+          "dateStart": {
+            "year": 2019,
+            "month": 8
+          },
+          "fallbackFaIcon": "fa-solid fa-medal",
+          "fallbackFaIconColor": "#117a65",
+          "locales": {
+            "en": {
+              "title": "1st Place – State Mathematics Teaching Award",
+              "description": "Winner of the São Paulo State Mathematics Teaching Award for developing an interdisciplinary project integrating mathematics and technology.",
+              "institution": "OBMEP - Brazilian Math Olympiad"
+            },
+            "pt-br": {
+              "title": "1º Lugar – Prêmio Estadual de Ensino de Matemática",
+              "description": "Vencedor do Prêmio Estadual de Ensino de Matemática de São Paulo por desenvolver projeto interdisciplinar integrando matemática e tecnologia.",
+              "institution": "OBMEP - Olimpíada Brasileira de Matemática"
+            }
+          },
+          "links": []
+        },
+        {
+          "id": 4,
+          "dateStart": {
+            "year": 2022,
+            "month": 5
+          },
+          "fallbackFaIcon": "fa-solid fa-star",
+          "fallbackFaIconColor": "#8e44ad",
+          "locales": {
+            "en": {
+              "title": "Honorable Mention – National Education Congress",
+              "description": "Recognition for presenting innovative research on gamification applied to mathematics teaching in the National Education Congress.",
+              "institution": "MEC - Ministry of Education"
+            },
+            "pt-br": {
+              "title": "Menção Honrosa – Congresso Nacional de Educação",
+              "description": "Reconhecimento pela apresentação de pesquisa inovadora sobre gamificação aplicada ao ensino de matemática no Congresso Nacional de Educação.",
+              "institution": "MEC - Ministério da Educação"
+            }
+          },
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "component": "ArticleThread",
+      "locales": {
+        "en": {
+          "title": "Certifications"
+        },
+        "pt-br": {
+          "title": "Certificações"
+        }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "desc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": {
+            "year": 2014,
+            "month": 6
+          },
+          "fallbackFaIcon": "fa-solid fa-chalkboard-teacher",
+          "fallbackFaIconColor": "#1a5276",
+          "locales": {
+            "en": {
+              "title": "GeoGebra Certification",
+              "description": "Official certification in using GeoGebra software for teaching mathematics, with focus on geometry and algebra visualization.",
+              "institution": "GeoGebra Institute"
+            },
+            "pt-br": {
+              "title": "Certificação GeoGebra",
+              "description": "Certificação oficial no uso do software GeoGebra para ensino de matemática, com foco em visualização de geometria e álgebra.",
+              "institution": "Instituto GeoGebra"
+            }
+          },
+          "links": []
+        },
+        {
+          "id": 2,
+          "dateStart": {
+            "year": 2017,
+            "month": 3
+          },
+          "fallbackFaIcon": "fa-solid fa-laptop",
+          "fallbackFaIconColor": "#148f77",
+          "locales": {
+            "en": {
+              "title": "Educational Technologies for Mathematics",
+              "description": "Training course on digital tools and educational platforms for mathematics teaching, including Khan Academy and Desmos.",
+              "institution": "Fundação Lemann"
+            },
+            "pt-br": {
+              "title": "Tecnologias Educacionais para Matemática",
+              "description": "Curso de formação em ferramentas digitais e plataformas educacionais para o ensino de matemática, incluindo Khan Academy e Desmos.",
+              "institution": "Fundação Lemann"
+            }
+          },
+          "links": []
+        },
+        {
+          "id": 3,
+          "dateStart": {
+            "year": 2021,
+            "month": 9
+          },
+          "fallbackFaIcon": "fa-solid fa-brain",
+          "fallbackFaIconColor": "#6c3483",
+          "locales": {
+            "en": {
+              "title": "Active Methodologies in Teaching",
+              "description": "Specialization course on active methodologies such as Problem-Based Learning, Flipped Classroom and Design Thinking applied to education.",
+              "institution": "Instituto Singularidades"
+            },
+            "pt-br": {
+              "title": "Metodologias Ativas no Ensino",
+              "description": "Curso de especialização em metodologias ativas como Aprendizagem Baseada em Problemas, Sala de Aula Invertida e Design Thinking aplicados à educação.",
+              "institution": "Instituto Singularidades"
+            }
+          },
+          "links": []
+        },
+        {
+          "id": 4,
+          "dateStart": {
+            "year": 2023,
+            "month": 4
+          },
+          "fallbackFaIcon": "fa-brands fa-google",
+          "fallbackFaIconColor": "#e74c3c",
+          "locales": {
+            "en": {
+              "title": "Google Certified Educator Level 2",
+              "description": "Advanced certification in using Google tools for education, including Google Classroom, Forms, and collaborative learning strategies.",
+              "institution": "Google for Education"
+            },
+            "pt-br": {
+              "title": "Google Certified Educator Nível 2",
+              "description": "Certificação avançada no uso de ferramentas Google para educação, incluindo Google Classroom, Forms e estratégias de aprendizagem colaborativa.",
+              "institution": "Google for Education"
+            }
+          },
+          "links": []
+        }
+      ]
+    }
+  ]
+}

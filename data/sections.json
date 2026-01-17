@@ -1,0 +1,109 @@
+{
+  "sections": [
+    {
+      "id": "about",
+      "categoryId": "home",
+      "jsonPath": "/sections/cover.json",
+      "faIcon": "fa-solid fa-address-card",
+      "type": "centered",
+      "locales": {
+        "en": {
+          "title": "Welcome to *my resume!*",
+          "title_short": "Welcome!",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "nav_label": "About"
+        },
+        "pt-br": {
+          "title": "Bem-vindo ao *meu currículo!*",
+          "title_short": "Bem-vindo!",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "nav_label": "Sobre"
+        }
+      }
+    },
+    {
+      "id": "education",
+      "categoryId": "background",
+      "jsonPath": "/sections/education.json",
+      "faIcon": "fa-solid fa-graduation-cap",
+      "type": "column",
+      "locales": {
+        "en": {
+          "title": "*Education* Background",
+          "title_short": null,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "nav_label": "Education"
+        },
+        "pt-br": {
+          "title": "Formação *Acadêmica*",
+          "title_short": null,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "nav_label": "Educação"
+        }
+      }
+    },
+    {
+      "id": "experience",
+      "categoryId": "background",
+      "jsonPath": "/sections/experience.json",
+      "faIcon": "fa-solid fa-briefcase",
+      "type": "column",
+      "locales": {
+        "en": {
+          "title": "*Professional* Experience",
+          "title_short": null,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "nav_label": "Experience"
+        },
+        "pt-br": {
+          "title": "Experiência *Profissional*",
+          "title_short": null,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "nav_label": "Experiência"
+        }
+      }
+    },
+    {
+      "id": "achievements",
+      "categoryId": "showcase",
+      "jsonPath": "/sections/achievements.json",
+      "faIcon": "fa-solid fa-award",
+      "type": "row",
+      "locales": {
+        "en": {
+          "title": "Career *Achievements*",
+          "title_short": null,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "nav_label": "Achievements"
+        },
+        "pt-br": {
+          "title": "Conquistas *Profissionais*",
+          "title_short": null,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "nav_label": "Conquistas"
+        }
+      }
+    },
+    {
+      "id": "contact",
+      "categoryId": "more",
+      "jsonPath": "/sections/contact.json",
+      "faIcon": "fa-solid fa-pen-to-square",
+      "type": "column",
+      "locales": {
+        "en": {
+          "title": "*Contact* Me",
+          "title_short": null,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "nav_label": "Contact"
+        },
+        "pt-br": {
+          "title": "Entre em *Contato*",
+          "title_short": null,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "nav_label": "Contato"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleTimeline",
+      "locales": {},
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "desc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": {
+            "year": 2012,
+            "month": 2
+          },
+          "dateEnd": {
+            "year": 2015,
+            "month": 12
+          },
+          "img": "",
+          "fallbackFaIcon": "fa-solid fa-school",
+          "fallbackFaIconColor": "#1a5276",
+          "locales": {
+            "en": {
+              "title": "Mathematics Teacher",
+              "description": "Taught mathematics to middle and high school students in a public school in the metropolitan region of São Paulo, developing innovative teaching methodologies.",
+              "list": {
+                "title": "Key Responsibilities",
+                "items": [
+                  "Taught <strong>mathematics classes</strong> for 6th to 9th grade students.",
+                  "Developed <strong>didactic materials</strong> and interactive activities for the classroom.",
+                  "Participated in <strong>pedagogical meetings</strong> and continued education programs.",
+                  "Provided <strong>academic tutoring</strong> to students with learning difficulties."
+                ]
+              },
+              "province": "São Paulo",
+              "country": "Brazil",
+              "institution": "E.E. Professor João Dias da Silveira",
+              "tags": [
+                "Middle School",
+                "High School",
+                "Tutoring",
+                "Didactic Materials"
+              ]
+            },
+            "pt-br": {
+              "title": "Professor de Matemática",
+              "description": "Lecionei matemática para alunos do ensino fundamental e médio em escola pública da região metropolitana de São Paulo, desenvolvendo metodologias inovadoras de ensino.",
+              "list": {
+                "title": "Principais Responsabilidades",
+                "items": [
+                  "Ministrei <strong>aulas de matemática</strong> para alunos do 6º ao 9º ano.",
+                  "Desenvolvi <strong>materiais didáticos</strong> e atividades interativas para sala de aula.",
+                  "Participei de <strong>reuniões pedagógicas</strong> e programas de formação continuada.",
+                  "Realizei <strong>reforço escolar</strong> para alunos com dificuldades de aprendizagem."
+                ]
+              },
+              "province": "São Paulo",
+              "country": "Brasil",
+              "institution": "E.E. Professor João Dias da Silveira",
+              "tags": [
+                "Ensino Fundamental",
+                "Ensino Médio",
+                "Reforço Escolar",
+                "Material Didático"
+              ]
+            }
+          }
+        },
+        {
+          "id": 2,
+          "dateStart": {
+            "year": 2016,
+            "month": 2
+          },
+          "dateEnd": {
+            "year": 2019,
+            "month": 12
+          },
+          "img": "",
+          "fallbackFaIcon": "fa-solid fa-chalkboard-teacher",
+          "fallbackFaIconColor": "#2e86ab",
+          "locales": {
+            "en": {
+              "title": "High School Mathematics Teacher",
+              "description": "Taught high school mathematics with emphasis on preparing students for ENEM and college entrance exams, using educational technologies and active methodologies.",
+              "list": {
+                "title": "Key Responsibilities:",
+                "items": [
+                  "Taught <strong>high school mathematics</strong> including algebra, geometry and trigonometry.",
+                  "Prepared students for <strong>ENEM and college entrance exams</strong> with intensive classes.",
+                  "Implemented <strong>GeoGebra and Khan Academy</strong> as teaching support tools.",
+                  "Coordinated <strong>math olympics</strong> preparation for students."
+                ]
+              },
+              "province": "São Paulo",
+              "country": "Brazil",
+              "institution": "Colégio Estadual Fernão Dias Paes",
+              "tags": ["High School", "ENEM", "GeoGebra", "Math Olympics"]
+            },
+            "pt-br": {
+              "title": "Professor de Matemática - Ensino Médio",
+              "description": "Lecionei matemática no ensino médio com ênfase na preparação dos alunos para ENEM e vestibulares, utilizando tecnologias educacionais e metodologias ativas.",
+              "list": {
+                "title": "Principais Responsabilidades:",
+                "items": [
+                  "Ministrei aulas de <strong>matemática para o ensino médio</strong> incluindo álgebra, geometria e trigonometria.",
+                  "Preparei alunos para o <strong>ENEM e vestibulares</strong> com aulas intensivas.",
+                  "Implementei o uso de <strong>GeoGebra e Khan Academy</strong> como ferramentas de apoio ao ensino.",
+                  "Coordenei a preparação de alunos para <strong>olimpíadas de matemática</strong>."
+                ]
+              },
+              "province": "São Paulo",
+              "country": "Brasil",
+              "institution": "Colégio Estadual Fernão Dias Paes",
+              "tags": [
+                "Ensino Médio",
+                "ENEM",
+                "GeoGebra",
+                "Olimpíadas de Matemática"
+              ]
+            }
+          }
+        },
+        {
+          "id": 3,
+          "dateStart": {
+            "year": 2020,
+            "month": 2
+          },
+          "dateEnd": {
+            "year": 2022,
+            "month": 12
+          },
+          "img": "",
+          "fallbackFaIcon": "fa-solid fa-laptop",
+          "fallbackFaIconColor": "#148f77",
+          "locales": {
+            "en": {
+              "title": "Mathematics Teacher and Technology Coordinator",
+              "description": "Worked as a mathematics teacher and educational technology coordinator, leading the digital transformation of teaching during and after the pandemic.",
+              "list": {
+                "title": "Key Responsibilities:",
+                "items": [
+                  "Led the implementation of <strong>Google Classroom</strong> in the school.",
+                  "Developed <strong>hybrid and remote teaching</strong> strategies during the pandemic.",
+                  "Trained <strong>other teachers</strong> in the use of educational technologies.",
+                  "Created <strong>video lessons and digital materials</strong> for distance learning."
+                ]
+              },
+              "province": "São Paulo",
+              "country": "Brazil",
+              "institution": "E.E. Caetano de Campos",
+              "tags": [
+                "Google Classroom",
+                "Remote Teaching",
+                "Teacher Training",
+                "Educational Technology"
+              ]
+            },
+            "pt-br": {
+              "title": "Professor de Matemática e Coordenador de Tecnologia",
+              "description": "Atuei como professor de matemática e coordenador de tecnologia educacional, liderando a transformação digital do ensino durante e após a pandemia.",
+              "list": {
+                "title": "Principais Responsabilidades:",
+                "items": [
+                  "Liderei a implementação do <strong>Google Classroom</strong> na escola.",
+                  "Desenvolvi estratégias de <strong>ensino híbrido e remoto</strong> durante a pandemia.",
+                  "Capacitei <strong>outros professores</strong> no uso de tecnologias educacionais.",
+                  "Criei <strong>videoaulas e materiais digitais</strong> para ensino a distância."
+                ]
+              },
+              "province": "São Paulo",
+              "country": "Brasil",
+              "institution": "E.E. Caetano de Campos",
+              "tags": [
+                "Google Classroom",
+                "Ensino Remoto",
+                "Formação de Professores",
+                "Tecnologia Educacional"
+              ]
+            }
+          }
+        },
+        {
+          "id": 4,
+          "dateStart": {
+            "year": 2023,
+            "month": 2
+          },
+          "dateEnd": {
+            "string": "now"
+          },
+          "img": "",
+          "fallbackFaIcon": "fa-solid fa-user-graduate",
+          "fallbackFaIconColor": "#6c3483",
+          "locales": {
+            "en": {
+              "title": "Mathematics Teacher and Pedagogical Coordinator",
+              "description": "Currently serving as a mathematics teacher and pedagogical coordinator of the exact sciences area, developing innovative projects and mentoring new teachers.",
+              "list": {
+                "title": "Key Responsibilities:",
+                "items": [
+                  "Teach <strong>high school mathematics</strong> with focus on active methodologies.",
+                  "Coordinate the <strong>exact sciences area</strong> pedagogically.",
+                  "Develop <strong>interdisciplinary projects</strong> integrating mathematics with other subjects.",
+                  "<strong>Mentor new teachers</strong> and supervise teaching internships."
+                ]
+              },
+              "province": "São Paulo",
+              "country": "Brazil",
+              "institution": "E.E. Alberto Santos Dumont",
+              "tags": [
+                "Pedagogical Coordination",
+                "Active Methodologies",
+                "Interdisciplinary Projects",
+                "Mentoring"
+              ]
+            },
+            "pt-br": {
+              "title": "Professor de Matemática e Coordenador Pedagógico",
+              "description": "Atualmente atuando como professor de matemática e coordenador pedagógico da área de ciências exatas, desenvolvendo projetos inovadores e orientando novos professores.",
+              "list": {
+                "title": "Principais Responsabilidades:",
+                "items": [
+                  "Ministro aulas de <strong>matemática no ensino médio</strong> com foco em metodologias ativas.",
+                  "Coordeno a área de <strong>ciências exatas</strong> pedagogicamente.",
+                  "Desenvolvo <strong>projetos interdisciplinares</strong> integrando matemática com outras disciplinas.",
+                  "<strong>Oriento novos professores</strong> e supervisiono estágios de licenciatura."
+                ]
+              },
+              "province": "São Paulo",
+              "country": "Brasil",
+              "institution": "E.E. Alberto Santos Dumont",
+              "tags": [
+                "Coordenação Pedagógica",
+                "Metodologias Ativas",
+                "Projetos Interdisciplinares",
+                "Mentoria"
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
