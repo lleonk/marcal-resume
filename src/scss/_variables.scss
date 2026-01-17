@@ -1,11 +1,11 @@
 /** Font Awesome webfonts path **/
-$fa-font-path:"@fortawesome/fontawesome-free/webfonts";
+$fa-font-path: "@fortawesome/fontawesome-free/webfonts";
 
 /** Overriding Bootstrap's contrast ratio. **/
 $min-contrast-ratio: 1.5 !default;
 
 /** Typography **/
-$font-family-base: 'Saira', sans-serif;
+$font-family-base: "Saira", sans-serif;
 
 /** Z-Indexes **/
 $z-index-sidebar: 90;
@@ -52,13 +52,13 @@ $light-6: #6c757d;
 $light-7: #495057;
 
 $light-shades-palette: (
-    $light-1,
-    $light-2,
-    $light-3,
-    $light-4,
-    $light-5,
-    $light-6,
-    $light-7,
+  $light-1,
+  $light-2,
+  $light-3,
+  $light-4,
+  $light-5,
+  $light-6,
+  $light-7
 );
 
 /** Layout Constraints **/
@@ -97,38 +97,38 @@ $article-timeline-line-width: 3px;
 
 /** ArticleThread Parameters **/
 $article-thread-scale-multipliers: (
-    xxxl: 1,
-    xxl: 0.975,
-    xl: 0.95,
-    md: 0.9,
-    sm: 0.8
+  xxxl: 1,
+  xxl: 0.975,
+  xl: 0.95,
+  md: 0.9,
+  sm: 0.8,
 );
 $article-thread-line-color: $article-timeline-line-color;
 $article-thread-circle-base-size: 32px;
 
 /** Chart JS Customization **/
 :root {
-    --chart-js-border-color: #{$default-section-background};
-    --chart-js-hover-border-color: #{$light};
-    --nav-background-color: #{$nav-background};
+  --chart-js-border-color: #{$default-section-background};
+  --chart-js-hover-border-color: #{$light};
+  --nav-background-color: #{$nav-background};
 }
 
 /** Typography - Multipliers (Headers) **/
 $headings-breakpoint-multipliers: (
-    xxxl: 1,
-    xxl: 0.95,
-    xl: 0.925,
-    lg: 0.875,
-    md: 0.825,
-    sm: 0.75
+  xxxl: 1,
+  xxl: 0.95,
+  xl: 0.925,
+  lg: 0.875,
+  md: 0.825,
+  sm: 0.75,
 );
 
 /** Typography - Multipliers (Texts) **/
 $texts-breakpoint-multipliers: (
-    xxxl: 1,
-    xxl: 0.95,
-    xl: 0.925,
-    lg: 0.9,
-    md: 0.875,
-    sm: 0.85
+  xxxl: 1,
+  xxl: 0.95,
+  xl: 0.925,
+  lg: 0.9,
+  md: 0.875,
+  sm: 0.85,
 );
